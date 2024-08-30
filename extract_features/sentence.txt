@@ -1,2 +1,0 @@
-Ti3Al2.5V alloy is lean alpha plus beta titanium alloy and has beta transus temperature about 935°C.
-The yield strength of the alloy increased from 760MPa to 848MPa in heat treated  (solution treated at 910°C for 20 minutes and water quenched, aged at 510°C for 8 hours and air cooled to room temperature).
